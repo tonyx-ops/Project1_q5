@@ -1,5 +1,5 @@
 # Project1_q5
-# Experimental Analysis of √2 / √3 Growth Algorithm
+# Experimental Analysis of q5 Algorithm
 
 This project analyzes the runtime complexity of a pseudocode algorithm where `j` grows by √3 and `k` grows by √2. Theoretical analysis suggests that the runtime is O((log n)²). To verify this hypothesis, we implement the algorithm in Python, measure runtimes for different input sizes, normalize the data against the theoretical function, and generate plots for comparison.
 
